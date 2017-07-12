@@ -54,9 +54,14 @@
 
 <!-- 尾部 -->
 @section('footer')
+<!--     <div class="jumbotron" style="margin:0;">
+        <div class="container">
+            <a href="http://www.mayanlong.com" target="_blank">  @2017 天秤vs永恒</a>
+        </div>
+    </div> -->
     <div class="jumbotron" style="margin:0;">
         <div class="container">
-            <a href="http://www.mayanlong.com" target="_blank">  @2016 天秤vs永恒</a>
+            <a href="http://www.mayanlong.com" target="_blank">  @2017 天秤vs永恒</a>
         </div>
     </div>
 @show

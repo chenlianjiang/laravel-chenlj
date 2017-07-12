@@ -33,6 +33,7 @@ class StudentController extends Controller
 
         return view('student.index', [
             'students' => $students,
+            'title'=>'玩转Laravel表单',
         ]);
     }
         // 添加

@@ -1,5 +1,7 @@
 @extends('common.layouts')
-
+@section('title')
+{{ $title }}
+@show
 @section('content')
 
     @include('common.message')
@@ -59,6 +61,5 @@
         <div class="pull-right">
             {{ $students->appends(Request::input())->render() }}
         </div>
-
     </div>
 @stop

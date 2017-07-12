@@ -34,3 +34,8 @@ warning: CRLF will be replaced by LF in .tags_sorted_by_file
 ```
 >
 git config --global core.autocrlf false
+
+# 入门流程
+
+1、安装搭建laravel，学习路由+控制器+视图（blade）
+> [视图变量传递和Blade](https://www.codecasts.com/blog/post/programming-with-laravel-5-blade-views-with-var)
